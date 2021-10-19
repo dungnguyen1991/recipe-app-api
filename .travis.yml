@@ -1,6 +1,6 @@
 language: python
 python:
-  - "3.11"
+  - "3.11.0a1"
 
 services:
   - docker
